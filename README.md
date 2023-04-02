@@ -2,7 +2,6 @@ The networking-cisco project's goal is to provide support for Cisco networking
 hardware , IOT and software 
 
 * Documentation: http://networking-cisco.readthedocs.io/en/latest
-* Source: https://www.icloud.com/iclouddrive/08a014Es4ysDFu2r_FG9PSOSA#IOT_project
 
 Drivers for Cisco Products
 ==========================
