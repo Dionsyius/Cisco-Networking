@@ -1,12 +1,8 @@
 The networking-cisco project's goal is to provide support for Cisco networking
-hardware and software in OpenStack deployments. This includes ML2 drivers and
-agents for neutron, as well as other pieces of software which interact with
-neutron to best utilise your Cisco products with OpenStack.
+hardware , IOT and software 
 
-* Free software: Apache license
 * Documentation: http://networking-cisco.readthedocs.io/en/latest
-* Source: http://git.openstack.org/cgit/openstack/networking-cisco
-* Bugs: http://bugs.launchpad.net/networking-cisco
+* Source: https://www.icloud.com/iclouddrive/08a014Es4ysDFu2r_FG9PSOSA#IOT_project
 
 Drivers for Cisco Products
 ==========================
